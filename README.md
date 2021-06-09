@@ -1,10 +1,27 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lvntky&show_icons=true">
+<h1 align="center">Hi 👋, I'm Levent</h1>
+<h3 align="center">I am currently 3rd grade Computer Science student.
+ I'm passionate about Machine Learning and Low-Level programming.
+ Also i'm very into emulator development.</h3>
 
-# Hello World! I'm Levent.
-* I am a 21 years old Computer Science student. I am interested in areas such as System Programming, Artificial Intelligence and Reverse Engineering, and I include these topics in my blog posts. I am extremely interested in Linux and Open-Source Software. You can see, use and support my open source projects from my repos. You can also invite me to your projects, I'm always open to developing new things :)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lvntky&label=Profile%20views&color=0e75b6&style=flat" alt="lvntky" /> </p>
 
-# Interests
-[![](https://img.shields.io/badge/Linux-cD1?style=for-the-badge&logo=linux)]()
-[![](https://img.shields.io/badge/c%20programming-cD1?style=for-the-badge&logo=c)]()
-[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+- 🔭 I’m currently working on [kernel development](https://github.com/lvntky/kernel)
+
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer Vision, Embedded Systems**
+
+- 💬 Ask me about **Artifical Intelligence, Low-Level programming**
+
+- 📫 How to reach me **leventkayadev@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lvntky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lvntky" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lvntky&show_icons=true&locale=en&layout=compact" alt="lvntky" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lvntky&show_icons=true&locale=en" alt="lvntky" /></p>
 
