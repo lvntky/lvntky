@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Levent</h1>
-<h3 align="center">I am currently 3rd grade Computer Science student.
+<h3 align="center">I am currently Senior Computer Science student.
  I'm passionate about Machine Learning and Low-Level programming.
  Also i'm very into emulator development.</h3>
 
