@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Levent</h1>
-<h3 align="center">I am currently Senior Computer Science student.
- I'm passionate about Machine Learning and Low-Level programming.
- Also i'm very into emulator development.</h3>
+<h3 align="center">i do some stuff with computers .p</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvntky&label=Profile%20views&color=0e75b6&style=flat" alt="lvntky" /> </p>
 
 - 🔭 I’m currently working on [kernel development](https://github.com/lvntky/kernel)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer Vision, Embedded Systems**
+- 🌱 I’m currently learning **Java, Computer Graphics, Embedded Systems**
 
-- 💬 Ask me about **Artifical Intelligence, Low-Level programming**
+- 💬 Ask me about **EmuDev, OsDev, Low-Level programming**
 
 - 📫 How to reach me **leventkayadev@gmail.com**
 
