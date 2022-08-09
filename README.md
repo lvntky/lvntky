@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Levent</h1>
+<h1 align="center">Hi, I'm Levent</h1>
 <h3 align="center">i do some stuff with computers :stuck_out_tongue: </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvntky&label=Profile%20views&color=0e75b6&style=flat" alt="lvntky" /> </p>
