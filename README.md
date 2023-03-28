@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/leventkayadev" target="blank"><img src="https://img.shields.io/twitter/follow/leventkayadev?logo=twitter&style=for-the-badge" alt="leventkayadev" /></a> </p>
 
-- * Currently working on [Garbage Collector for C](https://github.com/lvntky/collector)
+- Currently working on [Garbage Collector for C](https://github.com/lvntky/collector)
 
-- * I regularly write articles on [https://leventkaya.dev/posts/](https://leventkaya.dev/posts/)
+- I regularly write articles on [https://leventkaya.dev/posts/](https://leventkaya.dev/posts/)
 
-- * How to reach me **leventkayadev@gmail.com**
+- How to reach me **leventkayadev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
