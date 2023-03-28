@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvntky&label=Profile%20views&color=0e75b6&style=flat" alt="lvntky" /> </p>
-- re-inventing the wheel
+* re-inventing the wheel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
