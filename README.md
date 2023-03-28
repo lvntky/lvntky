@@ -1,15 +1,8 @@
 <h1 align="center">Hi, I'm Levent</h1>
-<h3 align="center">I'm a Jr. Software Developer</h3>
+<h3 align="center">Jr. Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvntky&label=Profile%20views&color=0e75b6&style=flat" alt="lvntky" /> </p>
-
-- 🔭 I’m currently working on [compiler development](https://github.com/lvntky/SCC)
-
-- 🌱 I’m currently learning **Computer Graphics, Embedded Systems**
-
-- 💬 Ask me about **EmuDev, OsDev, Low-Level programming**
-
-- 📫 How to reach me **leventkayadev@gmail.com**
+- re-inventing the wheel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
